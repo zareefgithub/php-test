@@ -12,13 +12,12 @@ a pokédex.
 
 
 ## Project Requirements
-To get started, you'll need the following installed:
-- PHP
-- Composer
-- Git
- 
-You are free to use whatever PHP packages and front-end libraries that you wish. We suggest to use the latest available version of Laravel. You are also welcome to use any CSS framework, like Tailwind.
 
+We require this project to be completed in Laravel, you are welcome to use Docker.
+
+Please use the latest version of Laravel available: ![Laravel](https://img.shields.io/packagist/v/laravel/framework)
+
+You can also utilise frontend frameworks like VueJS, React or utility frameworks like TailwindCSS. **Please bear in mind that design and integration of frontend frameworks is a bonus - we are not expecting you to do this**
 
 ## Task Requirements
 
@@ -30,12 +29,12 @@ provide you with all the data that you will need. You do not need to create
 an account nor authenticate in order to consume the API, however please 
 be aware that this API is rate-limited.
  
-To get started, we have provided a skeleton folder structure, please create a 
-fork of this repository either here on gitlab or via another public repository like github.
+To get started, please fork of this repository either here on GitHub or via another public repository like GitLab.
 
-We recommend that you spend no more than two hours on this challenge, 
+We recommend that you spend no more than one hour on this challenge,
 we are more interested in how you approach the task than spending lots of time on it.
 
+Feel free to use comments/notes/pseudo code on how you would go further once the time is up.
 
 ### User Stories
 
@@ -57,9 +56,8 @@ we are more interested in how you approach the task than spending lots of time o
 
  
 ## Submission
-When you are aready to submit, please ensure you have forked this repository, no merge/pull request is required,
+When you are ready to submit, please ensure you have forked this repository, no merge/pull request is required,
 and provide us a link to your attempt.
-
 
 ## Copyright
 All trademarks are the property of their respective owners.
